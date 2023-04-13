@@ -1,1 +1,2 @@
-print('their daddies')
+def addFunction(x, y):
+    return x+y
